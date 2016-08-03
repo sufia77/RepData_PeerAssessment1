@@ -146,7 +146,7 @@ d5[which.max(d5$TotalSteps), 1]
 ```
 
 #### Code to describe and show a strategy for imputing missing data
-First convert the class of date column of original data to date. Then imputed mean(steps) in steps in place of NA in steps column
+First convert the class of date column of original data to date. Then imputed mean(steps) in place of NA in steps column
 
 
 ```r
